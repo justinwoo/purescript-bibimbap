@@ -1,0 +1,25 @@
+{
+  "name": "purescript-bibimbap",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-bibimbap.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-exceptions": "^4.0.0",
+    "purescript-typelevel-prelude": "^3.0.0",
+    "purescript-generics-rep": "^6.1.0",
+    "purescript-functions": "^4.0.0",
+    "purescript-unsafe-coerce": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^4.0.0"
+  }
+}
